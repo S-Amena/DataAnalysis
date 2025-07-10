@@ -2,6 +2,9 @@
 
 The Indian Premier League is a professional Twenty20 cricket league in India contested during March or April and May of every year by eight teams representing eight different cities in India. The league was founded by the Board of Control for Cricket in India in 2008.  
 
+![image alt](https://github.com/S-Amena/IPL-Data-Analysis-Using-AI-ML/blob/df6d31d8fd6b55bdf10f63759404a3f70da2237e/IPL_1.png)
+
+
 This project focuses on analyzing historical data from the **Indian Premier League (IPL)** using various **AI/ML techniques** to extract insights, evaluate performance, and build predictive models.
 
 ➤ **Objective:**
